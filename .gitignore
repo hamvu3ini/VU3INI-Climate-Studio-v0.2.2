@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+python/
+tools/
+.uv-cache/
+tests/data/t_*
+.pytest_cache/
+build/
+dist/
+logs/

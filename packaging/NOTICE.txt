@@ -1,0 +1,14 @@
+VU3INI Climate Studio
+Copyright (c) 2026 Sasanka Boruah (VU3INI) - hamvu3ini@gmail.com
+
+PERSONAL-USE NOTICE
+
+VU3INI Climate Studio is for personal, noncommercial use only. It runs on Google Earth Engine through your own Google account and Cloud project. You are solely responsible for your Earth Engine registration, for following Google's terms of service, and for how you use the results. Results are estimates from satellite and model data, not official forecasts, warnings or certified data.
+
+THIRD-PARTY SOFTWARE AND DATA
+
+This application bundles a Python runtime and open-source libraries (including Solara, ipyleaflet, earthengine-api, pandas, NumPy, SciPy, scikit-learn, XGBoost, Plotly, Matplotlib, GeoPandas, Shapely, pyproj, rasterio, python-docx, ReportLab and, when installed, PyTorch and TerraTorch). Each keeps its own licence.
+
+Satellite and model data come from Google Earth Engine and their original providers (NASA, NOAA, ECMWF/Copernicus, ESA, UCSB Climate Hazards Center, JRC, FAO). AI models come from Hugging Face (NASA-IBM Prithvi). Their terms apply to your use of them.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. By clicking "I accept the agreement" you confirm that you have read and accept this notice.
